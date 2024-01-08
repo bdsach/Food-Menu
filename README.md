@@ -21,3 +21,5 @@ Food Menu App show case can add your favorite food and order it.
 - SwiftUI
 - MVVM Pattern
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+](https://github.com/bdsach/Food-Menu-App)
