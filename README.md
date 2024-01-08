@@ -1,4 +1,4 @@
-# Food Menu App - iOS
+# Food Menu
 
 ## Description
 
